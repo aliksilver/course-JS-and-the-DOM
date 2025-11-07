@@ -12,3 +12,10 @@
         background: linear-gradient(160deg, #2015ff, #bdea09 100%);
     }
 }
+
+span {
+    text-decoration: underline;
+    font-style:italic;
+    
+
+}
